@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipezardo;
 - 🌱 I’m currently learning front-end development;
-- 👩🏼‍💻 Student at VNW School;
+- 👩🏼‍💻 Student at Vai Na Web School;
 - 📫 Rio de Janeiro-RJ;
 
 
