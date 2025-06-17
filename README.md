@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @felipezardo;
-- 🌱 I’m currently learning front-end development;
+- 🌱 I’m currently learning web development;
 - 👩🏼‍💻 Student at BYU-Idaho ;
 - 📫 Rio de Janeiro-RJ;
 
