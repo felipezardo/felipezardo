@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipezardo;
 - 🌱 I’m currently learning front-end development;
-- 👩🏼‍💻 Student at Vai Na Web School;
+- 👩🏼‍💻 Student at BYU-Idaho ;
 - 📫 Rio de Janeiro-RJ;
 
 
